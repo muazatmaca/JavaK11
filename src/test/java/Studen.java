@@ -3,5 +3,7 @@ public class Studen {
 
         System.out.println("merhaba 2");
 
+        System.out.println("Merhaba 3");
+
     }
 }
